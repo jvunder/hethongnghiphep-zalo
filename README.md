@@ -202,10 +202,6 @@ service cloud.firestore {
 
 MIT License - Tự do sử dụng và chỉnh sửa.
 
-## Tác giả
-
-Được phát triển với sự hỗ trợ của Claude AI.
-
 ---
 
 🇻🇳 **Tiếng Việt** | 🇨🇳 **中文支持**
